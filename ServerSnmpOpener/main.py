@@ -8,10 +8,10 @@
 # The default password has been used in this sample. Please replace it if you are not using the default password.
 # Mutiple process.
 
-ServerA=''
-ServerB=''
-ServerC=''
-ServerD=''
+ServerA='1.1.1.1'
+ServerB='2.2.2.2'
+ServerC='3.3.3.3'
+ServerD='4.4.4.4'
 Community='public'
 IBMUsername='USERDID'
 IBMPassword='PASSW0RD'
