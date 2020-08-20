@@ -4,9 +4,10 @@
 # It can open snmp port automatically. It would be useful if you are using zabbix.
 #Selenium EVN is required.
 
-# Here we define snmp information. I have given 4 snmp-bindin IPs. 
+# Here we define snmp information. I have given 4 snmp-bindin IPs: ServerA/B/C/D.
 # The default password has been used in this sample. Please replace it if you are not using the default password.
 # Mutiple process.
+
 ServerA=''
 ServerB=''
 ServerC=''
